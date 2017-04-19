@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.novemberain/langohr:3.6.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/novemberain/langohr/3.6.1/langohr-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
